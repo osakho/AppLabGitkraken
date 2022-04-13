@@ -1,0 +1,15 @@
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\AppLabGitkrakren.exe
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\AppLabGitkrakren.deps.json
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\AppLabGitkrakren.runtimeconfig.json
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\AppLabGitkrakren.dll
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\ref\AppLabGitkrakren.dll
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\bin\Debug\net6.0\AppLabGitkrakren.pdb
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.csproj.AssemblyReference.cache
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.GeneratedMSBuildEditorConfig.editorconfig
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.AssemblyInfoInputs.cache
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.AssemblyInfo.cs
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.csproj.CoreCompileInputs.cache
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.dll
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\ref\AppLabGitkrakren.dll
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.pdb
+C:\04 - DEV\Test3\AppLabGitkraken\AppLabGitkrakren\obj\Debug\net6.0\AppLabGitkrakren.genruntimeconfig.cache
