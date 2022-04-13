@@ -6,5 +6,6 @@ Console.WriteLine("Hello, World!");
 
 List<Personne> personnes = new List<Personne>()
 {
-    new Personne{ Id = 1, Name = "Sakho", LastName= "Cheikh"}
+    new Personne{ Id = 1, Name = "Sakho", LastName= "Cheikh"},
+    new Personne{Id=3, Name = "Sow", LastName = "Maham"}
 };
