@@ -4,4 +4,7 @@ using AppLabGitkrakren;
 Console.WriteLine("My first commit");
 Console.WriteLine("Hello, World!");
 
-List<Personne> personnes = new List<Personne>();
+List<Personne> personnes = new List<Personne>()
+{
+    new Personne{ Id = 1, Name = "Sakho", LastName= "Cheikh"}
+};
