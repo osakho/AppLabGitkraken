@@ -10,3 +10,5 @@ List<Personne> personnes = new List<Personne>()
     new Personne{Id=3, Name = "Sow", LastName = "Maham"},
     new Personne { Id = 2, Name = "Soumaré", LastName = "Nouma"}
 };
+
+var adresses = new Adresse { Id = 1, Ville = "Cergy", CodePostal = "95800", Pays = "France" };
